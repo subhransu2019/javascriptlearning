@@ -4,4 +4,4 @@ if(time>3)
 {
     var a="hello gm";
 }
-console.log(a);
+
